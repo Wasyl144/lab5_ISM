@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab5 - Michał Frankiewicz</string>
+    <string name="save">Zapisz</string>
+    <string name="read">Odczytaj</string>
+    <string name="filename">Nazwa pliku</string>
+
+</resources>
